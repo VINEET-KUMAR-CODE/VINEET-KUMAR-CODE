@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vineet Kumar 
+Transforming raw data into powerful business insights with **Python | SQL | Power BI | Excel  
 
-<!--
-**VINEET-KUMAR-CODE/VINEET-KUMAR-CODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚡ About Me
+- 🚀 10+ real-world projects in **EDA, ML models, Dashboards & Business Analytics**  
+- 📊 Expertise: **Data Wrangling | Visualization | Predictive Modeling | DAX | Power Query**  
+- 🧠 Passionate about **turning messy data into meaningful stories**   
+- 🤝 Open to **collaborations, internships & full-time opportunities**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Skills & Tools
+**Languages & Libraries:**  
+🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, plotly , Scikit-Learn)
+🗄️ SQL (Joins, Subqueries, Window Functions)  
+📊 Power BI (DAX, Data Modeling, KPIs)  
+📑 Excel (Pivot, VLOOKUP, Power Query)  
+
+**Tools:** Jupyter, VS Code, Git/GitHub, MySQL  
+
+---
+
+## 🌐 Connect With Me
+- 🔗 www.linkedin.com/in/vineet-kumar-40ba27323
+- 📧 Email: vineetkumarji1008@gmail.com  
