@@ -22,7 +22,7 @@ Transforming raw data into powerful business insights with **Python | SQL | Powe
 **Tools:** Jupyter, VS Code, Git/GitHub, MySQL  
 
 ---
-
+| Building logic | Growing everyday 🚀
 ## 🌐 Connect With Me
 - 🔗 www.linkedin.com/in/vineet-kumar-40ba27323
 - 📧 Email: vineetkumarji1008@gmail.com  
