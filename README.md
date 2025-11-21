@@ -14,9 +14,10 @@ Transforming raw data into powerful business insights with **Python | SQL | Powe
 ## 💡 Skills & Tools
 **Languages & Libraries:**  
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, plotly , Scikit-Learn)
+
 🗄️ SQL (Joins, Subqueries, Window Functions)  
 📊 Power BI (DAX, Data Modeling, KPIs)  
-📑 Excel (Pivot, VLOOKUP, Power Query)  
+📑 Excel (Pivot, automation , Power Query)  
 
 **Tools:** Jupyter, VS Code, Git/GitHub, MySQL  
 
