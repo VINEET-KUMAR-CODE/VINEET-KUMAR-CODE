@@ -4,7 +4,7 @@ Transforming raw data into powerful business insights with **Python | SQL | Powe
 ---
 
 ## ⚡ About Me
-- 🚀 10+ real-world projects in **EDA, ML models, Dashboards & Business Analytics**  
+- 🚀 10+ real-world projects in **EDA, Dashboards & Business Analytics**  
 - 📊 Expertise: **Data Wrangling | Visualization | Predictive Modeling | DAX | Power Query**  
 - 🧠 Passionate about **turning messy data into meaningful stories**   
 - 🤝 Open to **collaborations, internships & full-time opportunities**  
