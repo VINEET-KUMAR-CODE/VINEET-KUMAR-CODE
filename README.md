@@ -1,11 +1,11 @@
 # Hi, I'm Vineet Kumar 
-Transforming raw data into powerful business insights with **Python | SQL | Power BI | Excel  
+Transforming raw data into powerful business insights with ** Advance Excel | SQL | Power BI  | Python 
 
 ---
 
 ## ⚡ About Me
-- 🚀 10+ real-world projects in **EDA, Dashboards & Business Analytics**  
-- 📊 Expertise: **Data Wrangling | Visualization | Predictive Modeling | DAX | Power Query**  
+- 🚀 real-world projects in **Medical domain , RCM , EDA, Dashboards & Business Analytics**  
+- 📊 Expertise: **Healthcare domain | Visualization | Predictive Modeling | DAX | Power Query**  
 - 🧠 Passionate about **turning messy data into meaningful stories**   
 - 🤝 Open to **collaborations, internships & full-time opportunities**  
 
@@ -17,7 +17,7 @@ Transforming raw data into powerful business insights with **Python | SQL | Powe
 
 🗄️ SQL (Joins, Subqueries, Window Functions)  
 📊 Power BI (DAX, Data Modeling, KPIs)  
-📑 Excel (Pivot, automation , Power Query)  
+📑 Excel (Pivot, automation , Power Query, XL booster)  
 
 **Tools:** Jupyter, VS Code, Git/GitHub, MySQL  
 
